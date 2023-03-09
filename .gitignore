@@ -4,6 +4,9 @@
 *.dll
 *.so
 *.dylib
+*wordcount01.go
+*wordcount02.go
+*wordcount03.go
 
 # Test binary, built with `go test -c`
 *.test
